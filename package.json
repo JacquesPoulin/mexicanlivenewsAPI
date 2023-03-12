@@ -1,0 +1,21 @@
+{
+	"name": "mexican-live-news-api",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon index.js"
+	},
+	"type": "module",
+	"keywords": [],
+	"author": "Jacques Poulin",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^1.3.4",
+		"cheerio": "^1.0.0-rc.12",
+		"express": "^4.18.2"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.21"
+	}
+}
