@@ -1,7 +1,5 @@
-const addressError = [
-	{
-		ERROR: 'This media address (id) does not exsit yet',
-	},
-];
+const addressError = {
+	error: 'This media address (id) does not exist yet.',
+};
 
 export default addressError;
